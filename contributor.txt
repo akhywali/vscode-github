@@ -1,1 +1,2 @@
-ini adalah file contribusi pengembang,ini sangat berguna untuk dokumentasi
+ini adalah file contribusi pengembang, ini sangat berguna untuk dokumentasi
+aku sangat suka bermain-main dengan git.
